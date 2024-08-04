@@ -1,0 +1,13 @@
+# If the user agreed to the TOS and Privacy statement.
+# Having any value representing "true" filled (either manually changed or through software after manual trigger or third party input) means
+# That you read, understood and agree to everything mentioned in
+# https://github.com/Mindgamesnl/OpenAudioMc/blob/master/LICENCE_and_PRIVACY.md
+legal:
+  accepted: true
+keyset:
+  key-version: 5
+  private: 310f6f01-0b6a-4fe3-9cc0-19221049559d
+  link-mode: true
+  public: 9881eb16-c239-45f8-8986-35d36cc527b8
+debug:
+  log-state-changes: false
